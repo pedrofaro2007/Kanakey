@@ -1,4 +1,4 @@
-Inspirado no já existente programa Midikey2Key, feito para resolver um problema de compatibilidade com o PSR-E473. Foi desenvolvido para funcionar com o meu teclado musical, podendo não servir para outros teclados.
+Inspirado no já existente programa Midikey2Key, feito para resolver um problema de compatibilidade com o PSR-E473. Foi feito para funcionar com o meu teclado musical, pode não servir para outros teclados.
 
 ---
 
